@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Samostoyatelniy</string>
+    <string name="title_activity_geopozitsiya">geopozitsiya</string>
+    <string name="my_map_api_key">AIzaSyA17qBfws1orMWhpKLfTZS1lsI2uHhMtfI</string>
+</resources>
